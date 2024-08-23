@@ -1,5 +1,5 @@
 import streamlit as st 
-st.header('small to capital application')
+st.header('Small to Capital application')
 st.image('images.jfif')
 st.write('This is a application to change lowercase to uppercase letters')
 y=st.text_input(label='enter the sentence')
